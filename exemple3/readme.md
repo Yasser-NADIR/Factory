@@ -1,0 +1,2 @@
+# exemple 3
+> On a séparé le code qui crée du pizza, du code qui prépare du pizza. on a crée *SimplePizzaFactory* qui implemente la méthode createPizza, qui instance une implementation du **pizza** selon le *type*.
