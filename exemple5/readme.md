@@ -1,0 +1,2 @@
+# exercice 5
+> On a passé de créer des classe concret, chaque classe représente une factory, qui représente un région, au délibrer la responsabilité de définir la méthode de creation *fatory method* aux classes filles **NYPizzaStore** et **ChicagoPizaStore** de la classe mére **PizzaStore**
