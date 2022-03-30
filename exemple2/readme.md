@@ -1,0 +1,2 @@
+# exemple 2
+> Dans ce cas, en a des differences classes qui implementent interface, on donne la responsabilité de choix de l'implementation au classe client. Ce qui pose le problème si on ajoute une nouvelle classe qui implemente l'interface pizza on modifie le code client.
